@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hola, soy Mary 👋🙋‍♀️
 
+Bienvenid@ a este espacio. 
+_____________
+
+Soy ingeniera química, y ahora estoy dandole un giro especial a mi carrera profesional. Me encuentro iniciando en el desarrollo web! 💻
+
+Algunos datos sobre mi son: 
+- Soy de Puebla!
+- Hablo español, inglés y un poquito de fránces.
+- Me interesa el desarrollo web, la tecnología y la programación
+- Python developer Jr. 
 <!--
 **maryrozvi/maryrozvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
